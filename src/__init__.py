@@ -1,0 +1,1 @@
+"""Tarot Discord Bot package."""

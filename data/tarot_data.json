@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "name": "The Fool",
+    "name_vi": "Chàng Khờ (The Fool)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m00.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Magician",
+    "name_vi": "Pháp Sư (The Magician)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m01.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The High Priestess",
+    "name_vi": "Nữ Giáo Hoàng (The High Priestess)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m02.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Empress",
+    "name_vi": "Nữ Hoàng (The Empress)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m03.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The Emperor",
+    "name_vi": "Hoàng Đế (The Emperor)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m04.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Hierophant",
+    "name_vi": "Giáo Hoàng (The Hierophant)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m05.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Lovers",
+    "name_vi": "Đôi Tình Nhân (The Lovers)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m06.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The Chariot",
+    "name_vi": "Cỗ Xe (The Chariot)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m07.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Strength",
+    "name_vi": "Sức Mạnh (Strength)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m08.jpg"
+  },
+  {
+    "id": 10,
+    "name": "The Hermit",
+    "name_vi": "Ẩn Sĩ (The Hermit)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m09.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Wheel of Fortune",
+    "name_vi": "Bánh Xe Số Phận (Wheel of Fortune)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m10.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Justice",
+    "name_vi": "Công Lý (Justice)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m11.jpg"
+  },
+  {
+    "id": 13,
+    "name": "The Hanged Man",
+    "name_vi": "Người Treo Ngược (The Hanged Man)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m12.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Death",
+    "name_vi": "Cái Chết (Death)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m13.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Temperance",
+    "name_vi": "Tiết Độ (Temperance)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m14.jpg"
+  },
+  {
+    "id": 16,
+    "name": "The Devil",
+    "name_vi": "Ác Quỷ (The Devil)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m15.jpg"
+  },
+  {
+    "id": 17,
+    "name": "The Tower",
+    "name_vi": "Tòa Tháp (The Tower)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m16.jpg"
+  },
+  {
+    "id": 18,
+    "name": "The Star",
+    "name_vi": "Ngôi Sao (The Star)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m17.jpg"
+  },
+  {
+    "id": 19,
+    "name": "The Moon",
+    "name_vi": "Mặt Trăng (The Moon)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m18.jpg"
+  },
+  {
+    "id": 20,
+    "name": "The Sun",
+    "name_vi": "Mặt Trời (The Sun)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m19.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Judgement",
+    "name_vi": "Phán Xét (Judgement)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m20.jpg"
+  },
+  {
+    "id": 22,
+    "name": "The World",
+    "name_vi": "Thế Giới (The World)",
+    "type": "Major",
+    "suit": null,
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/m21.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Ace of Cups",
+    "name_vi": "Át Ly (Ace of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c01.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Two of Cups",
+    "name_vi": "2 Ly (Two of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c02.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Three of Cups",
+    "name_vi": "3 Ly (Three of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c03.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Four of Cups",
+    "name_vi": "4 Ly (Four of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c04.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Five of Cups",
+    "name_vi": "5 Ly (Five of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c05.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Six of Cups",
+    "name_vi": "6 Ly (Six of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c06.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Seven of Cups",
+    "name_vi": "7 Ly (Seven of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c07.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Eight of Cups",
+    "name_vi": "8 Ly (Eight of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c08.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Nine of Cups",
+    "name_vi": "9 Ly (Nine of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c09.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Ten of Cups",
+    "name_vi": "10 Ly (Ten of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c10.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Page of Cups",
+    "name_vi": "Tiểu Đồng Ly (Page of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c11.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Knight of Cups",
+    "name_vi": "Hiệp Sĩ Ly (Knight of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c12.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Queen of Cups",
+    "name_vi": "Hoàng Hậu Ly (Queen of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c13.jpg"
+  },
+  {
+    "id": 36,
+    "name": "King of Cups",
+    "name_vi": "Vua Ly (King of Cups)",
+    "type": "Minor",
+    "suit": "Cups",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/c14.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Ace of Swords",
+    "name_vi": "Át Kiếm (Ace of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s01.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Two of Swords",
+    "name_vi": "2 Kiếm (Two of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s02.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Three of Swords",
+    "name_vi": "3 Kiếm (Three of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s03.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Four of Swords",
+    "name_vi": "4 Kiếm (Four of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s04.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Five of Swords",
+    "name_vi": "5 Kiếm (Five of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s05.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Six of Swords",
+    "name_vi": "6 Kiếm (Six of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s06.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Seven of Swords",
+    "name_vi": "7 Kiếm (Seven of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s07.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Eight of Swords",
+    "name_vi": "8 Kiếm (Eight of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s08.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Nine of Swords",
+    "name_vi": "9 Kiếm (Nine of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s09.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Ten of Swords",
+    "name_vi": "10 Kiếm (Ten of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s10.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Page of Swords",
+    "name_vi": "Tiểu Đồng Kiếm (Page of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s11.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Knight of Swords",
+    "name_vi": "Hiệp Sĩ Kiếm (Knight of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s12.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Queen of Swords",
+    "name_vi": "Hoàng Hậu Kiếm (Queen of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s13.jpg"
+  },
+  {
+    "id": 50,
+    "name": "King of Swords",
+    "name_vi": "Vua Kiếm (King of Swords)",
+    "type": "Minor",
+    "suit": "Swords",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/s14.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Ace of Wands",
+    "name_vi": "Át Gậy (Ace of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w01.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Two of Wands",
+    "name_vi": "2 Gậy (Two of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w02.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Three of Wands",
+    "name_vi": "3 Gậy (Three of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w03.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Four of Wands",
+    "name_vi": "4 Gậy (Four of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w04.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Five of Wands",
+    "name_vi": "5 Gậy (Five of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w05.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Six of Wands",
+    "name_vi": "6 Gậy (Six of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w06.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Seven of Wands",
+    "name_vi": "7 Gậy (Seven of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w07.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Eight of Wands",
+    "name_vi": "8 Gậy (Eight of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w08.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Nine of Wands",
+    "name_vi": "9 Gậy (Nine of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w09.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Ten of Wands",
+    "name_vi": "10 Gậy (Ten of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w10.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Page of Wands",
+    "name_vi": "Tiểu Đồng Gậy (Page of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w11.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Knight of Wands",
+    "name_vi": "Hiệp Sĩ Gậy (Knight of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w12.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Queen of Wands",
+    "name_vi": "Hoàng Hậu Gậy (Queen of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w13.jpg"
+  },
+  {
+    "id": 64,
+    "name": "King of Wands",
+    "name_vi": "Vua Gậy (King of Wands)",
+    "type": "Minor",
+    "suit": "Wands",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/w14.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Ace of Pentacles",
+    "name_vi": "Át Tiền (Ace of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p01.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Two of Pentacles",
+    "name_vi": "2 Tiền (Two of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p02.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Three of Pentacles",
+    "name_vi": "3 Tiền (Three of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p03.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Four of Pentacles",
+    "name_vi": "4 Tiền (Four of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p04.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Five of Pentacles",
+    "name_vi": "5 Tiền (Five of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p05.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Six of Pentacles",
+    "name_vi": "6 Tiền (Six of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p06.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Seven of Pentacles",
+    "name_vi": "7 Tiền (Seven of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p07.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Eight of Pentacles",
+    "name_vi": "8 Tiền (Eight of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p08.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Nine of Pentacles",
+    "name_vi": "9 Tiền (Nine of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p09.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Ten of Pentacles",
+    "name_vi": "10 Tiền (Ten of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p10.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Page of Pentacles",
+    "name_vi": "Tiểu Đồng Tiền (Page of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p11.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Knight of Pentacles",
+    "name_vi": "Hiệp Sĩ Tiền (Knight of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p12.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Queen of Pentacles",
+    "name_vi": "Hoàng Hậu Tiền (Queen of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p13.jpg"
+  },
+  {
+    "id": 78,
+    "name": "King of Pentacles",
+    "name_vi": "Vua Tiền (King of Pentacles)",
+    "type": "Minor",
+    "suit": "Pentacles",
+    "image_url": "https://raw.githubusercontent.com/metabismuth/tarot-json/master/cards/p14.jpg"
+  }
+]
