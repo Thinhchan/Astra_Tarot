@@ -1,32 +1,45 @@
 # 🔮 Astra Tarot Bot (Rider-Waite & Google Gemini AI)
 
+<p align="center">
+  <a href="https://discord.com/oauth2/authorize?client_id=1557095376836632636&permissions=277025770560&scope=bot+applications.commands">
+    <img src="https://img.shields.io/badge/🤖_THÊM_BOT_VÀO_SERVER_NGAY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Invite Bot">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Online%2024/7-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Discord.py-2.7+-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+</p>
+
 Một Discord Bot xem bói và tra cứu Tarot toàn diện, kết hợp chuẩn hệ thống **78 lá bài Rider-Waite 1909** cùng trí tuệ nhân tạo **Google Gemini AI**. Bot mang phong thái của một Reader huyền bí, sâu sắc và chữa lành, hỗ trợ cả giao diện nút bấm tương tác lẫn ảnh trải bài trực quan!
 
 ---
 
 ## 🌟 Tính Năng Nổi Bật
 
-* 🧠 **Luận Giải Chuyên Sâu Bằng Gemini AI:** Phân tích bối cảnh, kết nối năng lượng giữa các lá bài (Quá khứ - Hiện tại - Tương lai) và đưa ra lời khuyên thực tế thay vì trả lời máy móc.
-* 🃏 **Bộ Bài Chuẩn 78 Lá Rider-Waite:** Tích hợp đầy đủ 22 lá Đại Bí Tích (Major Arcana) và 56 lá Tiểu Bí Tích (Minor Arcana), hỗ trợ cả chiều xuôi (*Upright*) lẫn chiều ngược (*Reversed*).
-* 🖼️ **Ghép Ảnh Trải Bài Trực Quan Tự Động:** Ghép các lá bài nằm ngang liền mạch, tự động xoay 180° đối với các lá bài ngược chân thực như trải bài thực tế.
-* 🔘 **Giao Diện Tương Tác Hiện Đại (Interactive UI):**
-  * Tích hợp **Nút bấm (Buttons)**: Lật xem chi tiết ý nghĩa từng thẻ bài hoặc bấm *Xin thêm lời khuyên hành động* từ AI ngay bên dưới quẻ bài.
-  * **Dropdown Menu (/spread):** Lựa chọn linh hoạt các chủ đề trải bài chuyên biệt (*Tình yêu, Sự nghiệp, Thân - Tâm - Trí, Dòng thời gian*).
-* 📖 **Từ Điển Tarot Tích Hợp (Kèm Autocomplete):** Tra cứu nhanh ý nghĩa, từ khóa, nguyên tố và biểu tượng của bất kỳ lá bài nào với tính năng gợi ý tên thông minh khi gõ.
-* ⚡ **Trực Quan & Mượt Mà:** Hỗ trợ lệnh rút nhanh 1, 3, 5 lá bài không cần chờ AI khi muốn rút ngẫu nhiên kiểm tra năng lượng ngày mới.
+- 🧠 **Luận Giải Chuyên Sâu Bằng Gemini AI**: Phân tích bối cảnh, kết nối dòng năng lượng giữa các lá bài (*Quá khứ - Hiện tại - Tương lai*) và đưa ra lời khuyên thực tế thay vì trả lời máy móc.
+- 🃏 **Bộ Bài Chuẩn 78 Lá Rider-Waite**: Tích hợp đầy đủ 22 lá Đại Bí Tích (*Major Arcana*) và 56 lá Tiểu Bí Tích (*Minor Arcana*), hỗ trợ chuẩn xác cả chiều xuôi (*Upright*) lẫn chiều ngược (*Reversed*).
+- 🖼️ **Ghép Ảnh Trải Bài Trực Quan Tự Động**: Tự động ghép các lá bài nằm ngang liền mạch, xoay 180° đối với các lá bài ngược chân thực như trải bài thực tế.
+- 🔘 **Giao Diện Tương Tác Hiện Đại (Interactive UI)**:
+  - **Nút bấm (Buttons)**: Lật xem chi tiết ý nghĩa từng thẻ bài hoặc bấm *Xin thêm lời khuyên hành động* từ AI ngay bên dưới quẻ bài.
+  - **Dropdown Menu (`/spread`)**: Lựa chọn linh hoạt các chủ đề trải bài chuyên biệt (*Tình yêu, Sự nghiệp, Thân - Tâm - Trí, Dòng thời gian*).
+- 📖 **Từ Điển Tarot Tích Hợp (Kèm Autocomplete)**: Tra cứu nhanh ý nghĩa, từ khóa, nguyên tố và biểu tượng của bất kỳ lá bài nào với tính năng gợi ý tên thông minh khi gõ.
+- ⚡ **Rút Nhanh Mượt Mà (`/draw`)**: Hỗ trợ rút nhanh 1, 3, 5 lá bài kèm hình ảnh trực quan không cần gọi AI khi muốn kiểm tra năng lượng ngày mới.
 
 ---
 
-## 📜 Hướng Dẫn Trải Bài (Dễ Hiểu Trong 1 Phút)
+## 📜 Hướng Dẫn Cách Trải Bài (Dễ Hiểu Trong 1 Phút)
 
 ### 1. Nguyên Tắc Trải Bài 3 Lá Cốt Lõi:
-* **Quá khứ (Past):** Nguồn gốc, gốc rễ của vấn đề hoặc những trải nghiệm đã định hình nên trạng thái hiện tại.
-* **Hiện tại (Present):** Thực trạng hiện nay, nguồn năng lượng chủ đạo đang bao quanh bạn và thách thức trước mắt.
-* **Tương lai (Future):** Xu hướng phát triển tự nhiên nếu bạn tiếp tục hành trình hiện tại, kèm bài học vũ trụ gửi gắm.
+- **Quá khứ (Past)**: Nguồn gốc, gốc rễ của vấn đề hoặc những trải nghiệm đã định hình nên trạng thái hiện tại của bạn.
+- **Hiện tại (Present)**: Thực trạng hiện nay, nguồn năng lượng chủ đạo đang bao quanh bạn và thách thức trước mắt.
+- **Tương lai (Future)**: Xu hướng phát triển tự nhiên nếu bạn tiếp tục hành trình hiện tại, kèm bài học vũ trụ gửi gắm.
 
 ### 2. Chiều Xuôi & Chiều Ngược:
-* **Chiều Xuôi (Upright):** Năng lượng hiển lộ rõ nét, thuận theo tự nhiên và phát huy tối đa đặc tính của lá bài.
-* **Chiều Ngược (Reversed):** Năng lượng bị tắc nghẽn, trở ngại nội tâm, chậm trễ hoặc bài học tiềm ẩn cần bạn soi chiếu lại chính mình.
+- **Chiều Xuôi (Upright)**: Năng lượng hiển lộ rõ nét, thuận dòng phát triển và phát huy tối đa tiềm năng của lá bài.
+- **Chiều Ngược (Reversed)**: Năng lượng bị tắc nghẽn, trở ngại nội tâm, chậm trễ hoặc bài học tiềm ẩn cần bạn soi chiếu lại chính mình.
 
 ---
 
@@ -36,11 +49,11 @@ Bot hỗ trợ đầy đủ cả **Lệnh gạch chéo (`/`)** lẫn **Lệnh ti
 
 | Lệnh Slash | Lệnh Prefix | Ý Nghĩa / Cách Dùng |
 | :--- | :--- | :--- |
-| `/tarot [câu_hỏi]` | `!tarot [câu_hỏi]` (hoặc `!bocbai`, `!boi`) | Bốc trải bài 3 lá và nhận lời luận giải chuyên sâu từ AI (kèm nút tương tác) |
-| `/spread` | — | Mở menu lựa chọn chủ đề trải bài (*Tình duyên, Công việc, Thân-Tâm-Trí*) |
-| `/draw [số_lượng]` | — | Rút nhanh 1, 3 hoặc 5 lá bài kèm ảnh trực quan (không gọi AI) |
-| `/card [tên_lá_bài]` | `!card <tên>` (hoặc `!tracuu`, `!dict`) | Tra cứu từ điển ý nghĩa chuẩn 78 lá bài (hỗ trợ gợi ý tự động khi gõ) |
-| `/ping` | `!ping` | Kiểm tra độ trễ mạng và tốc độ phản hồi của bot |
+| **`/tarot [câu_hỏi]`** | `!tarot [câu_hỏi]` *(hoặc `!bocbai`, `!boi`)* | Bốc trải bài 3 lá và nhận lời luận giải chuyên sâu từ AI (kèm nút tương tác) |
+| **`/spread`** | — | Mở menu lựa chọn chủ đề trải bài (*Tình duyên, Công việc, Thân-Tâm-Trí*) |
+| **`/draw [số_lượng]`** | — | Rút nhanh 1, 3 hoặc 5 lá bài kèm ảnh trực quan (không gọi AI) |
+| **`/card [tên_lá_bài]`** | `!card <tên>` *(hoặc `!tracuu`, `!dict`)* | Tra cứu từ điển ý nghĩa chuẩn 78 lá bài (hỗ trợ gợi ý tự động khi gõ) |
+| **`/ping`** | `!ping` | Kiểm tra độ trễ mạng và tốc độ phản hồi của bot |
 
 ---
 
@@ -67,14 +80,14 @@ Quẻ bài của @Username
 4. Tương lai (The Sun): Thành quả rực rỡ và sự thấu suốt sẽ đến khi bạn không ngừng nỗ lực...
 5. Lời khuyên hành động: Hãy vững tin vào lộ trình phát triển hiện tại...
 
-[🔘 Chi Tiết Thẻ Bài]  [🔮 Xin Thêm Lời Khuyên]
+[🔘 Chi Tiết Thẻ Bài]   [🔮 Xin Thêm Lời Khuyên]
 ```
 
 ---
 
 ## 💻 Dành Cho Lập Trình Viên (Tự Host & Triển Khai)
 
-Nếu bạn muốn tự chạy bot trên máy cá nhân hoặc triển khai lên hosting (VPS, Discloud, Wispbyte,...):
+Nếu bạn muốn tự chạy bot trên máy cá nhân hoặc triển khai lên hosting (VPS, Wispbyte, Discloud,...):
 
 ### 1. Cài đặt trên máy cục bộ
 
@@ -140,6 +153,6 @@ Astra_Tarot/
 
 ## 📄 Bản Quyền & Tác Giả
 
-* **Tác giả:** [Thinhchan](https://github.com/Thinhchan)
-* **Mã nguồn:** [GitHub - Astra_Tarot](https://github.com/Thinhchan/Astra_Tarot)
-* Phát hành dưới giấy phép mã nguồn mở **MIT License**.
+- Tác giả: **[Thinhchan](https://github.com/Thinhchan)**
+- Mã nguồn: **[GitHub - Astra_Tarot](https://github.com/Thinhchan/Astra_Tarot)**
+- Phát hành dưới giấy phép mã nguồn mở **MIT License**.
